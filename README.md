@@ -1,2 +1,2 @@
-# PeterWeb
-个人练习的前段页面
+# PeterSchool
+学校官网
